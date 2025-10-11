@@ -3,4 +3,4 @@ Sou estudante de Engenharia de Software e gosto de criar soluções práticas co
 
 - 🌱 Atualmente aprendendo: Go, TypeScript e React
 - 💼 Procurando oportunidades em desenvolvimento backend
-- 📫 Como me encontrar:
+- 📫 Onde me encontrar:
