@@ -1,9 +1,31 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1f77cb34-c294-42ae-a9ef-60524008c011" width="750" />
-</p>
+<div align="center" style="position: relative;">
 
-<h1 align="center">Enzo Hariel</h1>
-<p align="center">Back-End Developer | Software Engineering Student</p>
+  <img src="https://github.com/user-attachments/assets/1f77cb34-c294-42ae-a9ef-60524008c011" width="900" style="border-radius: 10px;" />
+
+  <div style="
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+  ">
+    Enzo Hariel
+  </div>
+
+  <div style="
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #c9d1d9;
+    font-size: 18px;
+  ">
+    Back-End Developer | Software Engineering Student
+  </div>
+
+</div>
 
 </div><h1> Hello! </h1>
 
