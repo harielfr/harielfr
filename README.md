@@ -1,5 +1,31 @@
-<img width="1536" height="1024" alt="ChatGPT Image 27 de fev  de 2026, 16_17_34" src="https://github.com/user-attachments/assets/b1022dae-09ec-428b-b168-9701dec9e193" />
-<h1> Hello! </h1>
+<div align="center" style="position: relative;">
+
+  <img src="assets/banner.png" width="900" style="border-radius: 10px;" />
+
+  <div style="
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+  ">
+    Enzo Hariel
+  </div>
+
+  <div style="
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #c9d1d9;
+    font-size: 18px;
+  ">
+    Back-End Developer | Software Engineering Student
+  </div>
+
+</div><h1> Hello! </h1>
 
 [![Linkedin Badge]
 [![Gmail Badge]
