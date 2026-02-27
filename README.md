@@ -1,7 +1,7 @@
 </div><h1> Hello! </h1>
 
-[![Linkedin Badge]
-[![Gmail Badge]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natan-lucena/)](https://www.linkedin.com/in/enzohariel/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zerogamerptbr@gmail.com)](mailto:enzoharielferreira@gmail.com)
 
 ## My Name is Enzo Hariel
 
