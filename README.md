@@ -1,32 +1,3 @@
-<div align="center" style="position: relative;">
-
-  <img src="https://github.com/user-attachments/assets/1f77cb34-c294-42ae-a9ef-60524008c011" width="900" style="border-radius: 10px;" />
-
-  <div style="
-    position: absolute;
-    top: 35%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-    font-size: 32px;
-    font-weight: bold;
-  ">
-    Enzo Hariel
-  </div>
-
-  <div style="
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: #c9d1d9;
-    font-size: 18px;
-  ">
-    Back-End Developer | Software Engineering Student
-  </div>
-
-</div>
-
 </div><h1> Hello! </h1>
 
 [![Linkedin Badge]
@@ -36,10 +7,22 @@
 
 Node.js | JavaScript | TypeScript | Express | Nest | MySQL | Postgress | MongoDB | ORMs | REST | CI/CD
 
-Software Engineering student at Federal University of Ceará  
+Software Engineering student at Federal University of Ceará🚀  
 Back-End Developer in progress since 2024  
 Passionate about problem-solving and software architecture  
 I enjoy turning complex ideas into simple solutions
 
+<div style="display: inline_block"><br>  
+
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+</div>
 
 
