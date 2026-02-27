@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="750" />
+  <img src="https://github.com/user-attachments/assets/1f77cb34-c294-42ae-a9ef-60524008c011" width="750" />
 </p>
 
 <h1 align="center">Enzo Hariel</h1>
