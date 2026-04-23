@@ -12,7 +12,7 @@ Back-End Developer in progress since 2024
 Passionate about problem-solving and software architecture  
 I enjoy turning complex ideas into simple solutions
 
-<div style="display: inline_block">  
+<div style="display: flex; gap: 10px; align-items: center;"> 
 
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
